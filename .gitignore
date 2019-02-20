@@ -2,3 +2,5 @@
 .idea/
 *.iml
 
+# ignore maven output directories
+target/
